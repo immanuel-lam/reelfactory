@@ -1,0 +1,438 @@
+{
+  "total": 25.824,
+  "lines": [
+    {
+      "key": "hook1",
+      "text": "Your drill's motor is the size of your thumb.",
+      "start": 0.1,
+      "end": 2.831,
+      "words": [
+        {
+          "text": "Your",
+          "start": 0.1,
+          "end": 0.379
+        },
+        {
+          "text": "drill's",
+          "start": 0.403,
+          "end": 0.765
+        },
+        {
+          "text": "motor",
+          "start": 0.797,
+          "end": 1.103
+        },
+        {
+          "text": "is",
+          "start": 1.13,
+          "end": 1.354
+        },
+        {
+          "text": "the",
+          "start": 1.373,
+          "end": 1.625
+        },
+        {
+          "text": "size",
+          "start": 1.647,
+          "end": 1.926
+        },
+        {
+          "text": "of",
+          "start": 1.95,
+          "end": 2.174
+        },
+        {
+          "text": "your",
+          "start": 2.193,
+          "end": 2.472
+        },
+        {
+          "text": "thumb.",
+          "start": 2.497,
+          "end": 2.831
+        }
+      ]
+    },
+    {
+      "key": "hook2",
+      "text": "But it still drives a screw into hardwood.",
+      "start": 2.951,
+      "end": 5.431,
+      "words": [
+        {
+          "text": "But",
+          "start": 2.951,
+          "end": 3.202
+        },
+        {
+          "text": "it",
+          "start": 3.224,
+          "end": 3.448
+        },
+        {
+          "text": "still",
+          "start": 3.468,
+          "end": 3.774
+        },
+        {
+          "text": "drives",
+          "start": 3.801,
+          "end": 4.135
+        },
+        {
+          "text": "a",
+          "start": 4.164,
+          "end": 4.361
+        },
+        {
+          "text": "screw",
+          "start": 4.378,
+          "end": 4.684
+        },
+        {
+          "text": "into",
+          "start": 4.711,
+          "end": 4.99
+        },
+        {
+          "text": "hardwood.",
+          "start": 5.014,
+          "end": 5.431
+        }
+      ]
+    },
+    {
+      "key": "hook3",
+      "text": "So where does the strength come from?",
+      "start": 5.611,
+      "end": 7.798,
+      "words": [
+        {
+          "text": "So",
+          "start": 5.611,
+          "end": 5.835
+        },
+        {
+          "text": "where",
+          "start": 5.854,
+          "end": 6.161
+        },
+        {
+          "text": "does",
+          "start": 6.188,
+          "end": 6.467
+        },
+        {
+          "text": "the",
+          "start": 6.491,
+          "end": 6.742
+        },
+        {
+          "text": "strength",
+          "start": 6.764,
+          "end": 7.154
+        },
+        {
+          "text": "come",
+          "start": 7.188,
+          "end": 7.467
+        },
+        {
+          "text": "from?",
+          "start": 7.491,
+          "end": 7.798
+        }
+      ]
+    },
+    {
+      "key": "small",
+      "text": "The motor spins a tiny gear, very fast.",
+      "start": 8.598,
+      "end": 11.078,
+      "words": [
+        {
+          "text": "The",
+          "start": 8.598,
+          "end": 8.849
+        },
+        {
+          "text": "motor",
+          "start": 8.871,
+          "end": 9.178
+        },
+        {
+          "text": "spins",
+          "start": 9.205,
+          "end": 9.511
+        },
+        {
+          "text": "a",
+          "start": 9.538,
+          "end": 9.734
+        },
+        {
+          "text": "tiny",
+          "start": 9.751,
+          "end": 10.03
+        },
+        {
+          "text": "gear,",
+          "start": 10.055,
+          "end": 10.361
+        },
+        {
+          "text": "very",
+          "start": 10.468,
+          "end": 10.747
+        },
+        {
+          "text": "fast.",
+          "start": 10.771,
+          "end": 11.078
+        }
+      ]
+    },
+    {
+      "key": "big",
+      "text": "That gear turns a big one, five times its size.",
+      "start": 11.218,
+      "end": 14.245,
+      "words": [
+        {
+          "text": "That",
+          "start": 11.218,
+          "end": 11.497
+        },
+        {
+          "text": "gear",
+          "start": 11.521,
+          "end": 11.8
+        },
+        {
+          "text": "turns",
+          "start": 11.825,
+          "end": 12.131
+        },
+        {
+          "text": "a",
+          "start": 12.158,
+          "end": 12.354
+        },
+        {
+          "text": "big",
+          "start": 12.371,
+          "end": 12.623
+        },
+        {
+          "text": "one,",
+          "start": 12.645,
+          "end": 12.924
+        },
+        {
+          "text": "five",
+          "start": 13.028,
+          "end": 13.307
+        },
+        {
+          "text": "times",
+          "start": 13.331,
+          "end": 13.638
+        },
+        {
+          "text": "its",
+          "start": 13.665,
+          "end": 13.916
+        },
+        {
+          "text": "size.",
+          "start": 13.938,
+          "end": 14.245
+        }
+      ]
+    },
+    {
+      "key": "trade",
+      "text": "The big gear turns five times slower, and five times harder.",
+      "start": 14.385,
+      "end": 17.95,
+      "words": [
+        {
+          "text": "The",
+          "start": 14.385,
+          "end": 14.636
+        },
+        {
+          "text": "big",
+          "start": 14.658,
+          "end": 14.91
+        },
+        {
+          "text": "gear",
+          "start": 14.932,
+          "end": 15.211
+        },
+        {
+          "text": "turns",
+          "start": 15.235,
+          "end": 15.542
+        },
+        {
+          "text": "five",
+          "start": 15.568,
+          "end": 15.847
+        },
+        {
+          "text": "times",
+          "start": 15.872,
+          "end": 16.178
+        },
+        {
+          "text": "slower,",
+          "start": 16.205,
+          "end": 16.567
+        },
+        {
+          "text": "and",
+          "start": 16.678,
+          "end": 16.93
+        },
+        {
+          "text": "five",
+          "start": 16.952,
+          "end": 17.231
+        },
+        {
+          "text": "times",
+          "start": 17.255,
+          "end": 17.562
+        },
+        {
+          "text": "harder.",
+          "start": 17.588,
+          "end": 17.95
+        }
+      ]
+    },
+    {
+      "key": "turn1",
+      "text": "So your motor was never strong.",
+      "start": 18.45,
+      "end": 20.299,
+      "words": [
+        {
+          "text": "So",
+          "start": 18.45,
+          "end": 18.674
+        },
+        {
+          "text": "your",
+          "start": 18.693,
+          "end": 18.972
+        },
+        {
+          "text": "motor",
+          "start": 18.997,
+          "end": 19.303
+        },
+        {
+          "text": "was",
+          "start": 19.33,
+          "end": 19.581
+        },
+        {
+          "text": "never",
+          "start": 19.603,
+          "end": 19.91
+        },
+        {
+          "text": "strong.",
+          "start": 19.937,
+          "end": 20.299
+        }
+      ]
+    },
+    {
+      "key": "turn2",
+      "text": "It just traded speed for force.",
+      "start": 20.499,
+      "end": 22.35,
+      "words": [
+        {
+          "text": "It",
+          "start": 20.499,
+          "end": 20.723
+        },
+        {
+          "text": "just",
+          "start": 20.742,
+          "end": 21.021
+        },
+        {
+          "text": "traded",
+          "start": 21.046,
+          "end": 21.38
+        },
+        {
+          "text": "speed",
+          "start": 21.409,
+          "end": 21.716
+        },
+        {
+          "text": "for",
+          "start": 21.742,
+          "end": 21.994
+        },
+        {
+          "text": "force.",
+          "start": 22.016,
+          "end": 22.35
+        }
+      ]
+    },
+    {
+      "key": "cta",
+      "text": "Your Brand. Free on the App Store.",
+      "start": 22.75,
+      "end": 24.924,
+      "words": [
+        {
+          "text": "Your",
+          "start": 22.75,
+          "end": 23.029
+        },
+        {
+          "text": "Brand.",
+          "start": 23.053,
+          "end": 23.388
+        },
+        {
+          "text": "Free",
+          "start": 23.497,
+          "end": 23.776
+        },
+        {
+          "text": "on",
+          "start": 23.8,
+          "end": 24.024
+        },
+        {
+          "text": "the",
+          "start": 24.043,
+          "end": 24.295
+        },
+        {
+          "text": "App",
+          "start": 24.317,
+          "end": 24.568
+        },
+        {
+          "text": "Store.",
+          "start": 24.59,
+          "end": 24.924
+        }
+      ]
+    }
+  ],
+  "draft": true
+}

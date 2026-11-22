@@ -1,0 +1,32 @@
+{
+  "name": "reelfactory",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A Claude Code reel factory: faceless 3D explainer shorts for any niche, made in code with Remotion and React Three Fiber.",
+  "scripts": {
+    "studio": "remotion studio",
+    "typecheck": "tsc --noEmit -p .",
+    "doctor": "scripts/doctor.sh",
+    "demo": "node tools/frames.mjs demo sheets"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.2.0",
+    "@remotion/bundler": "4.0.494",
+    "@remotion/cli": "4.0.494",
+    "@remotion/google-fonts": "4.0.494",
+    "@remotion/renderer": "4.0.494",
+    "@remotion/three": "4.0.494",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "remotion": "4.0.494",
+    "three": "0.178.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.1.1",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "@types/three": "0.178.0",
+    "typescript": "5.9.3"
+  }
+}

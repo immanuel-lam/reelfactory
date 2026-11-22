@@ -1,0 +1,25 @@
+{
+  "id": "demo",
+  "title": "How does a gear make a small motor strong?",
+  "note": "The demo episode. It shows how an episode's files fit together and renders with no API key (estimated timing, no audio). It is deliberately simple and is NOT a quality reference: real episodes follow docs/QUALITY.md.",
+  "voice": {
+    "voiceId": "SET-BY-SETUP",
+    "name": "Set by /setup",
+    "modelId": "eleven_v4",
+    "settings": { "speed": 1.2, "stability": 0.4, "similarity_boost": 0.8 }
+  },
+  "tempo": 1.16,
+  "leadIn": 0.1,
+  "lines": [
+    { "key": "hook1", "text": "Your drill's motor is the size of your thumb.", "gap": 0.12 },
+    { "key": "hook2", "text": "But it still drives a screw into hardwood.", "gap": 0.18 },
+    { "key": "hook3", "text": "So where does the strength come from?", "gap": 0.8 },
+    { "key": "small", "text": "The motor spins a tiny gear, very fast.", "gap": 0.14 },
+    { "key": "big", "text": "That gear turns a big one, five times its size.", "gap": 0.14 },
+    { "key": "trade", "text": "The big gear turns five times slower, and five times harder.", "gap": 0.5 },
+    { "key": "turn1", "text": "So your motor was never strong.", "gap": 0.2 },
+    { "key": "turn2", "text": "It just traded speed for force.", "gap": 0.4 },
+    { "key": "cta", "text": "Your Brand. Free on the App Store.", "gap": 0.9 }
+  ],
+  "sources": ["Gear ratio and torque: any mechanics textbook; demo only, not verified for publication."]
+}

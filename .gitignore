@@ -1,0 +1,11 @@
+node_modules/
+out/
+exports/
+logs/
+cache/
+research/tmp/
+public/e*/
+.env
+.env.*
+.DS_Store
+*.log
